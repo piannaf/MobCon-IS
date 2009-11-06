@@ -1,0 +1,21 @@
+Justin Mancinelli
+Final Assignment for INFS7900 at the University of Queensland
+
+Files:
+	**Created by Professor
+	Assignment_S2_2009.pdf -- Assignment Description
+
+	**Created by Justin Mancinelli
+	Assumptions.pdf -- Assumtions I made when designing the information
+		system
+	ER.pdf -- Entity Relationship Diagram
+	ERtoSchemaMapping.pdf -- Documents the steps taken to map the ERD to
+		a Relational Schema
+	INFS7900_Assignment.accdb -- Microsoft Access 2007 implementation of the
+		information system. Populated with test data
+	Microsoft_Access_2007_Implementation_Notes.pdf -- Describes various
+		constraints implemented in the Access Implementation
+	Normalization.pdf -- Verbose check of normal form status of each
+		relation
+	Schema.pdf -- Relational Schema Diagram
+
